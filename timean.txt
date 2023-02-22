@@ -1,2 +1,3 @@
 ss
 initializing git in timean folder
+timean inside timean , added on text file 
