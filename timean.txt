@@ -1,0 +1,2 @@
+ss
+initializing git in timean folder
