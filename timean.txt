@@ -1,3 +1,1 @@
-ss
-initializing git in timean folder
-timean inside timean , added on text file 
+git push was successfull. git update in local after changes in github remote still not done
