@@ -10,3 +10,4 @@ write anything in this timean.txt
  recording echo write anything in this 
  recording echo ewerite anything int this 
 march 19 cli to github push - facing some problem
+ i cut and paste blog.odt from GUI to mar19blog folder
